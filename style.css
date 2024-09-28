@@ -1,0 +1,45 @@
+body {
+    
+    background-image:url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrniLlu6Ynb8pWtx7_0JJS7qm5XOU555Oeg&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin: 50px auto;
+    padding: 20px;
+    width: 300px;
+    background-color: #ec681c;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+button {
+    padding: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#feedback {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#previousGuesses {
+    margin-top: 20px;
+    color: #1f0808;
+}
